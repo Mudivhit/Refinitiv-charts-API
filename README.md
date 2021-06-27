@@ -1,1 +1,3 @@
-# Refinitiv-charts-API
+- Input is via a json form , to be automated when implemented in the main Rifinitiv code.
+- Program reads the sample request json file, containing the currency pair , timeframe and chart attributes.
+- A request is sent to refinitiv and the response which is a chart is downloaded and stored locally.
